@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Final-Movie-Database/static/css/main.5ee99826.css",
-    "main.js": "/Final-Movie-Database/static/js/main.3ec0a012.js",
+    "main.js": "/Final-Movie-Database/static/js/main.3943c96e.js",
     "static/js/787.d02d9e27.chunk.js": "/Final-Movie-Database/static/js/787.d02d9e27.chunk.js",
     "index.html": "/Final-Movie-Database/index.html",
     "main.5ee99826.css.map": "/Final-Movie-Database/static/css/main.5ee99826.css.map",
-    "main.3ec0a012.js.map": "/Final-Movie-Database/static/js/main.3ec0a012.js.map",
+    "main.3943c96e.js.map": "/Final-Movie-Database/static/js/main.3943c96e.js.map",
     "787.d02d9e27.chunk.js.map": "/Final-Movie-Database/static/js/787.d02d9e27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ee99826.css",
-    "static/js/main.3ec0a012.js"
+    "static/js/main.3943c96e.js"
   ]
 }
